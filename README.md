@@ -75,8 +75,6 @@ npm install
 
 <br>
 
-<a href="https://mern-stack-admin.vercel.app/" target="_blank"><img src="https://i.imgur.com/GLlU4Od.png" alt="adminApp login page"> </a>
-
 ## Issues
 
 If you find any issues while installing or using the app, kindly open an [issue](https://github.com/anma-dev/mern-adminapp/issues) with the tag "enhancement".
