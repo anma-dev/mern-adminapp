@@ -1,6 +1,6 @@
-# ✍️ adminApp
+# ✍️ AdminApp
 
-adminApp is a MERN stack E-commerce application (only Admin side).
+AdminApp is a MERN stack E-commerce application (only Admin side) with React.
 
 ## 💻⚛️🏗️🛠️ Tech-stacks used
 
